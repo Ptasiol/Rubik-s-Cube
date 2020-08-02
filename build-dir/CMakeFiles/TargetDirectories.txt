@@ -1,0 +1,3 @@
+/home/ptasiol/learning/OpenGL/RubiksCube/build-dir/CMakeFiles/rebuild_cache.dir
+/home/ptasiol/learning/OpenGL/RubiksCube/build-dir/CMakeFiles/edit_cache.dir
+/home/ptasiol/learning/OpenGL/RubiksCube/build-dir/CMakeFiles/App.dir
